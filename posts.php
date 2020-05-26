@@ -12,7 +12,7 @@
 
 <html>
 <head>
-<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 </head>
 <body>
 <div style="width:700px; margin:0 auto;">
